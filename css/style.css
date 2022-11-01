@@ -6,9 +6,10 @@
 
                                                                                                                    
 body{
+	background-color:#CFD2CF;
 	font-family: "Lora",serif;
 	font-size: 18px;
-	margin: 0px;
+
 }
 h1,h2,h3{
 	font-family: "Roboto",sans-serif;
